@@ -1,1 +1,1 @@
-print("main")
+print("This is a simple calculator")
